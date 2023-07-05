@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mainText {
+  color: aqua;
+  text-shadow: 2px 2px 2px #a80acf;
+  margin-bottom: 25px;
+}
+
+.todoStyle {
+  font-size: 20px;
+  display: inline-block;
+  list-style: none;
+  margin-right: 30px;
+}
+
+.styleInput {
+  margin-bottom: 15px;
+}
+
+.btnTodo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  padding: 10px 15px;
+  background-color: aqua;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
